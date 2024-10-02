@@ -1,4 +1,4 @@
-module github.com/vegetableovosh/protos
+module github.com/vegetableovosh/sso_proto
 
 go 1.21
 
